@@ -1,6 +1,6 @@
 ##                       DJ Dhanush WHATSAPP BOT
 
-<p align = center>   <img src="https://telegra.ph/DJ-Dhanush-10-12" alt="GIF" width="250" height="250"/> </p>
+<p align = center>   <img src=".\LocalData/theme/2.png" alt="GIF" width="250" height="250"/> </p>
 
 <p align  = center> <a href="#"><img title="DJ Dhanush Bot" src="https://img.shields.io/badge/CYBER-X WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
