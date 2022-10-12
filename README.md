@@ -1,4 +1,4 @@
-##                       CYBER-X TESTING WHATSAPP BOT
+##                       DJ Dhanush WHATSAPP BOT
 
 <p align = center>   <img src="https://telegra.ph/DJ-Dhanush-10-12" alt="GIF" width="250" height="250"/> </p>
 
